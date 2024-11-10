@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"SharedFoldersEnableSymlinksCreate":false,"guestpath":"/var/www/html","hostpath":"C:/Users/joshu/apache-vagrant/web_content","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/joshu/apache-vagrant","disabled":false,"__vagrantfile":true}}}
